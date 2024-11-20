@@ -81,7 +81,7 @@
   <div id="home" class="h-screen flex flex-col">
     <div
       id="banner"
-      class="relative flex-grow bg-[url('/img/banner.png')] bg-no-repeat bg-cover bg-center"
+      class="relative flex-grow bg-[url('/img/banner.webp')] bg-no-repeat bg-cover bg-center"
     >
       <div
         class="absolute inset-0 bg-gradient-to-b from-prussian-blue from-50% to-transparent to-100% opacity-75"
